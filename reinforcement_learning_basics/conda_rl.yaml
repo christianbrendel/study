@@ -1,0 +1,18 @@
+name: study-rl
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python==3.10
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - tqdm
+  - pytorch
+  - torchvision
+  - imageio
+  - mujoco-python
+  - gymnasium
